@@ -1,2 +1,0 @@
-# Freemedia-Usage
-Usage checker

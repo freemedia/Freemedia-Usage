@@ -1,7 +1,7 @@
 <? xml version="1.0" ?>
 <rss version="2.0">
 <channel>
-<title>*Fremedia Fully Loaded*</title>
+<title>*Freemedia Fully Loaded*</title>
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>

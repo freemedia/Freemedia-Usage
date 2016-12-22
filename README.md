@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>******UPDATE SCRIPT FOR SPMC & KODI IS BROKEN FOR NOW TILL A FIX IS PUT IN PLACE SO BARE WITH US THANKS***** </title>
+<title>******Wizard updated to version 1.03 ****** </title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

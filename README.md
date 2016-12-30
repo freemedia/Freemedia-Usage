@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>******Wizard updated to version 1.04****** </title>
+<title>******New Freemedia Wizard Plus coming soon to fix the update error ****** </title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>******New Freemedia Wizard Plus Released ******Have a happy New Year guys****** </title>
+<title>******Freemedia Build 2.6.6 released ******</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

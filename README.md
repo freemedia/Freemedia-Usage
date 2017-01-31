@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>******Freemedia Build 2.6.8 released ****** Please install your device buffer settings its under Freemedia updates******</title>
+<title>******Freemedia Build 2.6.9 released ****** Please install your device buffer settings its under Freemedia updates******</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

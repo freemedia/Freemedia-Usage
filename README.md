@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>****** Update Server back online soon ****** Please install your device buffer settings its under Wizplus Builds******</title>
+<title>****** Update Server is back online build 2.7.0 ****** Please install your device buffer settings its under Wizplus Builds******</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

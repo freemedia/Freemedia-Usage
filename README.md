@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>****** UPDATE SERVER OFFLINE ****** Please install your device buffer settings after update its under Wizplus Builds******</title>
+<title>****** UPDATE SERVER ONLINE FOR NON ADULT BUILD ONLY****** Please install your device buffer settings after update its under Wizplus Builds******</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>****** UPDATE Server Online + backgrounds server moved and online ****** Please install your device buffer settings after update******</title>
+<title>****** UPDATE Server offline + backgrounds down looking for a more permanent solution  ****** Please install your device buffer settings after update******</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

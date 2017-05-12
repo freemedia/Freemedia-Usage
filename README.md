@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>****** UPDATE Server offline + backgrounds down looking for a more permanent solution  ****** Please install your device buffer settings after update******</title>
+<title>****** UPDATE Server Online For all builds with new added Krypton 17.1 if your running 16.1 kodi update before new install  ****** Please install your device buffer settings after update******</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

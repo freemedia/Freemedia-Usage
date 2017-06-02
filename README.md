@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>****** UPDATE Server Offline till further notice******</title>
+<title>****** UPDATE Server Offline till further notice [ NEW BUILD SOON ]******</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

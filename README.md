@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>******UPDATE Server Still Offline We Are Working On A New Build So Please Hang On In There GUYS******</title>
+<title>******UPDATE SERVER ONLINE for SPMC & KODI 16.1  only other builds will be updated soon******</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

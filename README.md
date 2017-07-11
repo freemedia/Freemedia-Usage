@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>******UPDATE SERVER ONLINE for SPMC & KODI 16.1  only other builds will be updated soon******</title>
+<title>******UPDATE SERVER ONLINE for SPMC 16.1 non ADULT & KODI 17.3 with ADULT******</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

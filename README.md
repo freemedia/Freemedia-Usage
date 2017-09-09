@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>**UPDATE SERVER OFFLINE FOR ALL BUILDS PLEASE BE ADVISED THAT IN THE FUTURE ALL BUILDS WILL BE KODI 17 KRYPTON  ONLY SO PLEASE CONTACT US ON HOW TO UPDATE YOUR SOFTWARE  ******Droid Buddy 2 Has Arrived Its in our app installer Go Have A Look Its Full Of Entertainment Apps**</title>
+<title>**UPDATE SERVER OFFLINE FOR ALL BUILDS*** NEW BUILD COMING SOON FOR KODI 17.4 ****** New live TV apps released  ( LIVE LOUNGE & REDBOX ) install from Droid Buddy**</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

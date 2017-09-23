@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>**UPDATE SERVER OFFLINE FOR ALL BUILDS*** NEW BUILD COMING SOON FOR KODI 17.4 ****** New live TV apps released  ( LIVE LOUNGE & REDBOX ) install from Droid Buddy**</title>
+<title>**UPDATE SERVER ONLINE*** NEW BUILD FOR KODI 17.4 ****** New live TV apps released  ( LIVE LOUNGE & REDBOX ) install from APP INSTALLER**</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

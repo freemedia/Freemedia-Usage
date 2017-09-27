@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>**UPDATE SERVER ONLINE*** NEW BUILD FOR KODI 17.4 ****** New live TV apps released  ( LIVE LOUNGE & REDBOX ) install from APP INSTALLER**</title>
+<title>**DUE RECENT LAW SUITS WE ARE CLOSING OUR DOORS THANKS TO EVERYONE ITS BEEN A BLAST, STAY SAFE GUYS GOODBYE**</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

@@ -5,7 +5,7 @@
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>**DUE RECENT LAW SUITS WE ARE CLOSING OUR DOORS THANKS TO EVERYONE ITS BEEN A BLAST, STAY SAFE GUYS GOODBYE**</title>
+<title>**DUE TO RECENT LAW SUITS WE ARE CLOSING OUR DOORS THANKS TO EVERYONE ITS BEEN A BLAST, STAY SAFE GUYS GOODBYE**</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>

@@ -1,11 +1,11 @@
 <? xml version="1.0" ?>
 <rss version="2.0">
 <channel>
-<title>*Wizplus News*</title>
+<title></title>
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>**DUE TO RECENT LAW SUITS WE ARE CLOSING OUR DOORS THANKS TO EVERYONE ITS BEEN A BLAST, STAY SAFE GUYS GOODBYE**</title>
+<title>****</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>
